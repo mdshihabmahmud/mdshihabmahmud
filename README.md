@@ -4,15 +4,13 @@
 
 Currently I'm studying at daffodil International University, Dept. of Computer Science & Engineering (CSE) in 10th semester. I passed my HSC at Bogura Cantonment Public School & College, Bogura. I interested with Computer networking, Natural language processing (NLP), Machine Learning(ML) etc. I did some course about CLI & Shell, Latex etc. Also did some course in online during corona pandemic likes Python, HTML, CSS, etc. Addicted with Travelling , Football, Cricket, Chess etc.
 
-𝗦𝗞𝗜𝗟𝗟𝗦:  𝙃𝙏𝙈𝙇 | 𝘾𝙎𝙎 | 𝙅𝙎 | 𝘾 | 𝘾++ | 𝙅𝘼𝙑𝘼 | 𝗠𝗬𝗦𝗤𝗟 | 𝙋𝙔𝙏𝙃𝙊𝙉 
+![](https://img.shields.io/badge/<CODE>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on 𝗔𝘀 𝗮 𝗦𝘁𝘂𝗱𝗲𝗻𝘁, 𝗗𝗲𝗽𝘁. 𝗼𝗳 𝗖𝗦𝗘, 𝗗𝗜𝗨. 
 - 🌱 I’m currently learning 𝙋𝙔𝙏𝙃𝙊𝙉. 
 - 💬 Ask me about 𝗧𝗲𝗰𝗵 𝗥𝗲𝗹𝗮𝘁𝗲𝗱 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀. 
 - 📫 How to reach me: 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻, 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸, 𝗠𝗮𝗶𝗹. 
 - ⚡ Fun fact: 𝙏𝙤 𝙄𝙣𝙫𝙚𝙣𝙩 𝙉𝙚𝙬 𝙏𝙝𝙞𝙣𝙜𝙨.  
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓶𝓮:
 
