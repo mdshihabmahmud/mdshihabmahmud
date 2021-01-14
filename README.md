@@ -4,7 +4,7 @@
 
 Currently I'm studying at daffodil International University, Dept. of Computer Science & Engineering (CSE) in 10th semester. I passed my HSC at Bogura Cantonment Public School & College, Bogura. I interested with Computer networking, Natural language processing (NLP), Machine Learning(ML) etc. I did some course about CLI & Shell, Latex etc. Also did some course in online during corona pandemic likes Python, HTML, CSS, etc. Addicted with Travelling , Football, Cricket, Chess etc.
 
-𝐒𝐊𝐈𝐋𝐋𝐒: 𝙃𝙏𝙈𝙇 | 𝘾𝙎𝙎 | 𝙅𝙎 | 𝘾 | 𝘾++ | 𝙅𝘼𝙑𝘼 | 𝙋𝙔𝙏𝙃𝙊𝙉 (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FViglino&psig=AOvVaw1Bi0feFI__gyTUSaORAKOd&ust=1610735577097000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDL4_yJnO4CFQAAAAAdAAAAABAD)
+𝗦𝗞𝗜𝗟𝗟𝗦:  𝙃𝙏𝙈𝙇 | 𝘾𝙎𝙎 | 𝙅𝙎 | 𝘾 | 𝘾++ | 𝙅𝘼𝙑𝘼 | 𝗠𝗬𝗦𝗤𝗟 | 𝙋𝙔𝙏𝙃𝙊𝙉 
 
 - 🔭 I’m currently working on 𝗔𝘀 𝗮 𝗦𝘁𝘂𝗱𝗲𝗻𝘁, 𝗗𝗲𝗽𝘁. 𝗼𝗳 𝗖𝗦𝗘, 𝗗𝗜𝗨. 
 - 🌱 I’m currently learning 𝙋𝙔𝙏𝙃𝙊𝙉. 
@@ -12,11 +12,13 @@ Currently I'm studying at daffodil International University, Dept. of Computer S
 - 📫 How to reach me: 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻, 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸, 𝗠𝗮𝗶𝗹. 
 - ⚡ Fun fact: 𝙏𝙤 𝙄𝙣𝙫𝙚𝙣𝙩 𝙉𝙚𝙬 𝙏𝙝𝙞𝙣𝙜𝙨.  
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓶𝓮:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdshihabmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdshihabmahmud//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shihabmahmudroxy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/md.shihab.mahmud//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Shihab_Mahmud17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/mdshihabmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/_shihab_)  
 
-
+🏠 𝗗𝗛𝗔𝗞𝗔, 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛
 
 
 
