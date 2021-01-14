@@ -4,7 +4,7 @@
 
 Currently I'm studying at daffodil International University, Dept. of Computer Science & Engineering (CSE) in 10th semester. I passed my HSC at Bogura Cantonment Public School & College, Bogura. I interested with Computer networking, Natural language processing (NLP), Machine Learning(ML) etc. I did some course about CLI & Shell, Latex etc. Also did some course in online during corona pandemic likes Python, HTML, CSS, etc. Addicted with Travelling , Football, Cricket, Chess etc.
 
-𝐒𝐊𝐈𝐋𝐋𝐒: 𝙃𝙏𝙈𝙇 | 𝘾𝙎𝙎 | 𝙅𝙎 | 𝘾 | 𝘾++ | 𝙅𝘼𝙑𝘼 | 𝙋𝙔𝙏𝙃𝙊𝙉  [<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fmysql&psig=AOvVaw0y9qcIAtuY1uvA_Asr8kIM&ust=1610735440817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjkp6WHnO4CFQAAAAAdAAAAABAJ' alt='mysql' height='40'>]
+𝐒𝐊𝐈𝐋𝐋𝐒: 𝙃𝙏𝙈𝙇 | 𝘾𝙎𝙎 | 𝙅𝙎 | 𝘾 | 𝘾++ | 𝙅𝘼𝙑𝘼 | 𝙋𝙔𝙏𝙃𝙊𝙉 (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FViglino&psig=AOvVaw1Bi0feFI__gyTUSaORAKOd&ust=1610735577097000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDL4_yJnO4CFQAAAAAdAAAAABAD)
 
 - 🔭 I’m currently working on 𝗔𝘀 𝗮 𝗦𝘁𝘂𝗱𝗲𝗻𝘁, 𝗗𝗲𝗽𝘁. 𝗼𝗳 𝗖𝗦𝗘, 𝗗𝗜𝗨. 
 - 🌱 I’m currently learning 𝙋𝙔𝙏𝙃𝙊𝙉. 
