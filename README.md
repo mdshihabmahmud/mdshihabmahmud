@@ -12,7 +12,7 @@ Currently I'm studying at daffodil International University, Dept. of Computer S
 - 📫 How to reach me: 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻, 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸, 𝗠𝗮𝗶𝗹. 
 - ⚡ Fun fact: 𝙏𝙤 𝙄𝙣𝙫𝙚𝙣𝙩 𝙉𝙚𝙬 𝙏𝙝𝙞𝙣𝙜𝙨.  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓶𝓮:
 
