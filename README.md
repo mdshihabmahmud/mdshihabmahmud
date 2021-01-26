@@ -1,7 +1,6 @@
 ### Assalamualaikum,
 ### I am Md. Shihab Mahmud.
 #### CSE Student from Daffodil International University.
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 
 Currently I'm studying at daffodil International University, Dept. of Computer Science & Engineering (CSE) in 10th semester. I passed my HSC at Bogura Cantonment Public School & College, Bogura. I interested with Computer networking, Natural language processing (NLP), Machine Learning(ML) etc. I did some course about CLI & Shell, Latex etc. Also did some course in online during corona pandemic likes Python, HTML, CSS, etc. Addicted with Travelling , Football, Cricket, Chess etc.
 
