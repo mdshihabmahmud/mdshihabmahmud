@@ -2,7 +2,8 @@
 ### I am Md. Shihab Mahmud.
 #### CSE Student from Daffodil International University.
 
-Currently I'm studying at daffodil International University, Dept. of Computer Science & Engineering (CSE) in 10th semester. I passed my HSC at Bogura Cantonment Public School & College, Bogura. I interested with Computer networking, Natural language processing (NLP), Machine Learning(ML) etc. I did some course about CLI & Shell, Latex etc. Also did some course in online during corona pandemic likes Python, HTML, CSS, etc. Addicted with Travelling , Football, Cricket, Chess etc.
+Currently I'm studying at daffodil International University, Dept. of Computer Science & Engineering (CSE) in 10th semester. I passed my HSC at Bogura Cantonment Public School & College, Bogura. I interested with Computer networking, Natural language processing (NLP), Machine Learning(ML) etc. I did some course about CLI & Shell, Latex etc. Also did some course in online during corona pandemic likes Python, HTML, CSS, etc.
+Addicted with Travelling , Football, Cricket, Chess etc.
 
 ![](https://img.shields.io/badge/CODE-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/CODE-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
