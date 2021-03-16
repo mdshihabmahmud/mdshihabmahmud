@@ -22,7 +22,7 @@ Addicted with Travelling , Football, Cricket, Chess etc.
 - 🔭 I’m currently working on As a Student, Dept. of CSE, DIU.
 - 🌱 I’m currently learning PYTHON.
 - 💬 Ask me about Tech Related Questions.
-- 📫 How to reach me: LinkedIn, Facebook, Mail.
+- 📫 How to reach me: LinkedIn, Facebook, Instagram, Mail.
 - ⚡ Fun fact: To Invent New Things. 
 
 ### Connect With me:
