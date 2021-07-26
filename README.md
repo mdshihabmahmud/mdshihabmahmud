@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/mdshihabmahmud0" target="blank"><img src="https://img.shields.io/twitter/follow/mdshihabmahmud0?logo=twitter&style=for-the-badge" alt="mdshihabmahmud0" /></a> </p>
 
+[![Linkedin: mdshihabmahmud](https://img.shields.io/badge/-mdshihabmahmud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdshihabmahmud/)](https://www.linkedin.com/in/mdshihabmahmud/)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshihabmahmud&show_icons=true&locale=en" alt="mdshihabmahmud" /></p>
 
 
