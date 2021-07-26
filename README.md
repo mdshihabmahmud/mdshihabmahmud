@@ -7,7 +7,7 @@
 
 [![Linkedin: mdshihabmahmud](https://img.shields.io/badge/-mdshihabmahmud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdshihabmahmud/)](https://www.linkedin.com/in/mdshihabmahmud/)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdshihabmahmud&show_icons=true&locale=en" alt="mdshihabmahmud" /></p></center>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshihabmahmud&show_icons=true&locale=en" alt="mdshihabmahmud" /></p></center>
 
 
 - 🔭 I’m currently working on **As a Student, Dept. of CSE, DIU.**
