@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Md. Shihab Mahmud.</h1>
+<h1 align="left">Assalamualaikum,<br> I'm Md. Shihab Mahmud.</h1>
 <h3 align="left">CSE Student from Daffodil International University. I interested with Computer networking (CCNA), Web Design, Machine Learning(ML). Addicted with Travelling , Football, Cricket, Chess etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshihabmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="mdshihabmahmud" /> </p>
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mdshihabmahmud09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZXsfMrmrb-YcyCOPOkY78H4DnQY1TClY/view](https://drive.google.com/file/d/1ZXsfMrmrb-YcyCOPOkY78H4DnQY1TClY/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ViZAVSiz2g6ht2I5qrMf_FArXK_C20vB/view](https://drive.google.com/file/d/1ViZAVSiz2g6ht2I5qrMf_FArXK_C20vB/view)
 
 - ⚡ Fun fact **I think I am funny.**
 
@@ -43,25 +43,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshihabmahmud&show_icons=true&locale=en&layout=compact" alt="mdshihabmahmud" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshihabmahmud&show_icons=true&locale=en" alt="mdshihabmahmud" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshihabmahmud&" alt="mdshihabmahmud" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
