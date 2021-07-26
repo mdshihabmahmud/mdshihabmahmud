@@ -35,6 +35,8 @@
  <a href="https://www.hackerearth.com/https://www.hackerearth.com/@md.shihab2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@md.shihab2" height="30" width="40" /></a>
    <a href="https://www.urionlinejudge.com.br/judge/en/profile/478900" target="blank"><img align="center" src="https://4.bp.blogspot.com/-Bjlgg0MOirI/XC0f6a1AlgI/AAAAAAAAABE/OPzR0ZoH7pcvFWtJBnAiIyzZ1DvksL8uQCLcBGAs/s400/Screenshot%2B%252855%2529.png" alt="iamshihab" height="30" width="40" /></a>
   <a href="https://t.me/iamshihab" target="blank"><img align="center" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-19.jpg" alt="iamshihab" height="30" width="40" /></a>
+ <a href="https://codepen.io/https://codepen.io/mdshihabmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mdshihabmahmud" height="30" width="40" /></a>
+ <a href="https://dev.to/https://dev.to/mdshihabmahmud0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/mdshihabmahmud0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
