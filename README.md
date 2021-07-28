@@ -26,15 +26,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/mdshihabmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mdshihabmahmud" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/mdshihabmahmud0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/mdshihabmahmud0" height="30" width="40" /></a>
 <a href="https://twitter.com/mdshihabmahmud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshihabmahmud0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdshihabmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshihabmahmud" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdshihabmahmud1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdshihabmahmud1" height="30" width="40" /></a>
 <a href="https://fb.com/shihabmahmudroxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shihabmahmudroxy" height="30" width="40" /></a>
 <a href="https://instagram.com/md.shihab.mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.shihab.mahmud" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_shihab_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_shihab_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@md.shihab2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@md.shihab2" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@md.shihab2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@md.shihab2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
