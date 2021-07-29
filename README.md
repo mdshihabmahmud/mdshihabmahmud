@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **CCNA, Web Design.**
 
-- 👨‍💻 All of my projects are available at [https://mdshihabmahmud.netlify.app/](https://mdshihabmahmud.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/mdshihab](https://sites.google.com/view/mdshihab)
 
 - 💬 Ask me about **Tech Related Questions.**
 
