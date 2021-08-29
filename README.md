@@ -14,13 +14,7 @@
 
 - 🌱 I’m currently learning **CCNA, Web Design.**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/mdshihab](https://sites.google.com/view/mdshihab)
-
-- 💬 Ask me about **Tech Related Questions.**
-
 - 📫 How to reach me **mdshihabmahmud09@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K9VPjfBXHVQJLTLrGh7IiSifcCh7svdM/view](https://drive.google.com/file/d/1K9VPjfBXHVQJLTLrGh7IiSifcCh7svdM/view)
 
 - ⚡ Fun fact **I think I am funny.**
 
